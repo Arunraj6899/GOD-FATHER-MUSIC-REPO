@@ -52,10 +52,10 @@ Introducing a **robust API** for Telegram Music Bots that allows **audio & video
 
 🔑 API Access Key
 
-Contact US [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/Api_and_promotion)
+Contact US [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/SUKOON_ALL_DP)
 
 > Online Documentation: https://tgapi.xbitcode.com/docs
-> Get your API key from :[ https://t.me/tgmusic_apibot](https://t.me/tgmusic_apibot)
+> Get your API key from :[ https://t.me/tgmusic_apibot](https://t.me/SUKOON_ALL_DP)
 > Use your key in config.py
 > API key patter: xbit_10000000xx0233
 
@@ -70,9 +70,9 @@ Contact US [𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](http
 
 Need help or want to subscribe?
 
-Telegram:[𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/Api_and_promotion)
+Telegram:[𝐀𝐏𝐈 𝐚𝐧𝐝 𝐩𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧](https://t.me/SUKOON_ALL_DP)
 
-Maintained by:  [Xbitcode](https://xbitcode.com/)
+Maintained by:  [Xbitcode](https://t.me/SUKOON_ALL_DP)
 
 ---
 
@@ -99,7 +99,7 @@ Users must follow YouTube’s Terms of Service and Telegram’s Bot Policy.
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/xbitcode/music/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/Arunraj6899/GOD-FATHER-MUSIC-REPO)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
